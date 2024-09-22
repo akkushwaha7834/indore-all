@@ -1,7 +1,7 @@
 <?php include_once('./include/header.php') ?>
 
 <section class="banner">
-	<img src="assets/images/hero-banner.jpg" class="img-fluid" width="100%">
+	<img src="assets/images/indore-banner.jpg" class="img-fluid" width="100%">
 </section>
 <section class="intro">
 	<div class="container">
